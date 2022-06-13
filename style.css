@@ -146,6 +146,7 @@ body {
     position: relative;
     overflow: hidden;
     padding: 0;
+    margin: 0;
 }
 
 .noover {
@@ -189,6 +190,7 @@ body {
     position: relative;
     overflow: hidden;
     padding: 16em 0 13em;
+    margin: 0;
 }
 
 .first-section::before {
@@ -200,6 +202,7 @@ body {
     left: 0px;
     display: block;
     background: linear-gradient(to right, rgba(255, 255, 255, 0.99) 20%, rgba(255, 255, 255, 0.7) 70%, rgba(255, 255, 255, 0) 95%);
+    margin: 0;
 }
 
 .first-section h2 {
